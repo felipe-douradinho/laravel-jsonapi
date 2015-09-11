@@ -17,12 +17,7 @@ Installation
 ### Requirements
 
 * PHP 5.4+
-<<<<<<< HEAD
-* Laravel 5
-=======
 * Laravel 5.1.*
->>>>>>> 98a5897cdaa62f74a64852ec34349eed30281d24
-
 
 Using laravel-jsonapi
 -----
